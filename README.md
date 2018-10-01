@@ -1,5 +1,4 @@
-# mlp and CNN
-
+Description(s)
 
 
 Multilayer Perceptron on MNIST
