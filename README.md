@@ -14,5 +14,6 @@ Voice recognition data : http://download.tensorflow.org/data/speech_commands_v0.
 
 Bunch of stuff from Coursera AML specialization.
 
+Conv LSTM architecture for deep RL inspired by SoyGema's starcraft ii minigame application.
 
 More generative models : coming soon
